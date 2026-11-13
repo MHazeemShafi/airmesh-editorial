@@ -1,0 +1,9 @@
+
+{
+  "crons": [
+    {
+      "path": "/api/daily-respiratory-alerts",
+      "schedule": "30 3 * * *"
+    }
+  ]
+}
